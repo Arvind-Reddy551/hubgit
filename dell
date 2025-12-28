@@ -8,3 +8,7 @@ display
 touchpad
 mouse
 git add 
+git commit
+git merge
+git clone
+git pull
